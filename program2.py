@@ -35,3 +35,23 @@ print(a>b)
 print(a<b)
 print(a>=b)
 print(a<=b)
+
+
+
+
+#Assignment operator 
+
+num=10
+print("num:",num)
+num+=10
+print("num:",num)
+num-=10
+print("num:",num)
+num*=10
+print("num:",num)
+num/=10
+print("num:",num)
+num%=10
+print("num:",num)
+num**=10
+print("num:",num)
