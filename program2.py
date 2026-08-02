@@ -23,3 +23,15 @@ div=a/b
 print(div)
 mod=a%b
 print(mod)
+
+
+
+#Relational operator
+a=50
+b=30
+print(a==b)
+print(a!=b)
+print(a>b)
+print(a<b)
+print(a>=b)
+print(a<=b)
